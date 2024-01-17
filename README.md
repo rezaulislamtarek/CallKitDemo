@@ -1,0 +1,3 @@
+SwiftUI CallKit Integration for iOS
+ 
+This SwiftUI project demonstrates the integration of CallKit in an iOS app, providing a seamless user experience for handling audio and video calls. Utilizing SwiftUI for the user interface, the app leverages CallKit to manage incoming and outgoing calls, ensuring a native and intuitive calling experience. The implementation includes support for video calls, demonstrating the seamless integration of video streams during a call. Explore the codebase to learn how to incorporate CallKit features into your SwiftUI app and enhance user interactions with audio and video communication.
